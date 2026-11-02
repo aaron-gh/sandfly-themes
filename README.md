@@ -4,7 +4,7 @@ Sound themes for [SandFly](https://github.com/aaron-gh/SandFly).
 
 ## Themes
 
-* **SandFly 0.2.1** (`sandfly-0.2.1.zip`): the sounds of SandFly 0.2.1, before SandFly 0.3.0 replaced them. As in 0.2.1, control sounds, screen on, row wraps, cursor moves and reading control changes have no sound. The braille display connection sounds and the braille keyboard typing sounds are SandFly's current ones.
+* **SandFly 0.2.1** (`sandfly-0.2.1.zip`): the sounds of SandFly 0.2.1, before SandFly 0.3.0 replaced them. As in 0.2.1, control sounds, screen on, row wraps, cursor moves and reading control changes have no sound. The circle menu, braille display connection and braille keyboard typing sounds are off. Vibrations added after 0.2.1 are off.
 
 ## Installing a theme
 
